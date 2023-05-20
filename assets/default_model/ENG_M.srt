@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:06,320
+Plans are well underway for races to Mars and the Moon in 1992, by SolarSale.
+
+2
+00:00:06,880 --> 00:00:11,440
+The race to Mars is to commemorate Columbus' journey to the New World 500 years ago,
+
+3
+00:00:11,440 --> 00:00:16,320
+and the one to the Moon is to promote the use of SolarSales in space exploration.
+
